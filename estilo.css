@@ -1,0 +1,54 @@
+body {
+	background: 16px url(imagens/fundo2.png);
+}
+
+a {
+	color: white;
+	text-decoration:none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#principal {
+	width: 900px;
+}
+
+#menu {
+	 background-color: grey;
+	  color: red;
+  		width: 1070px;
+  		padding: 15px;
+}
+
+.rodape {
+	text-align: center;
+}
+
+.fundo { 
+	background-color: white;
+	width: 1070px;
+  	padding: 15px;
+}
+
+.conteudo{
+  display: flex;
+  background-color: white;
+	width: 1070px;
+  	padding: 15px;
+}
+
+.txt{
+  float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
